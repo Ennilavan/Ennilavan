@@ -1,5 +1,5 @@
 MYSELF:
-I am Ennilavan studying 3rd year cse in Nehru Institute of Engineering and Technology.
+I am Ennilavan studying 4rd year cse in Nehru Institute of Engineering and Technology.
 PROJECT:
 I done an IBM project on COVID-19 VACCINE analysis with the help of python
 HOW TO RUN THE CODE:
